@@ -1,0 +1,90 @@
+/* ClassCompnt.css */
+.cla_main_box {
+    height: 400px;
+    width: 400px;
+    background-color: whitesmoke !important;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+
+.cla_center_box {
+    height: 400px;
+    height: 75px;
+    background-color: rgb(9, 107, 107) !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    margin-top: 100px;
+    color: whitesmoke;
+}
+
+.cla_btn {
+    height: 55px;
+    width: 120px;
+    background-color: rgb(14, 110, 110) !important;
+    color: whitesmoke;
+    margin-top: 120px !important;
+    margin-left: 20px !important;
+    display: flex;
+    justify-content: center;
+    color: whitesmoke !important;
+    border-radius: 10px !important;
+    box-shadow: 1px gray;
+}
+
+/* TableData.css */
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+/* DataFields.css */
+.cla_btnData_field {
+    height: 55px;
+    width: 150px;
+    background-color: rgb(14, 110, 110) !important;
+    color: whitesmoke;
+    margin-top: 60px !important;
+    margin-left: 20px !important;
+    display: flex;
+    justify-content: center;
+    color: whitesmoke !important;
+    border-radius: 10px !important;
+    box-shadow: 1px gray;
+    
+}
+.data_field_box_main{
+    width: 700px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.save_btn{
+    height: 55px;
+    width: 280px;
+    background-color: rgb(14, 110, 110) !important;
+    color: whitesmoke;
+    margin-top: 60px !important;
+    margin-left: 20px !important;
+    display: flex;
+    justify-content: center;
+    color: whitesmoke !important;
+    border-radius: 10px !important;
+    box-shadow: 1px gray;
+}
